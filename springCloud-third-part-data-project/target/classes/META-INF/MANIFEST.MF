@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springCloud-third-part-data-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sun
+Implementation-Vendor-Id: com.sun
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springCloud-Parent/springCloud-third-part-data-proj
+ ect
+Created-By: Maven Integration for Eclipse
+
